@@ -1,6 +1,22 @@
 
 # 💫 About Me:
-🎨 I’m currently working on  <br>Building modern, responsive front-end web applications with React.js and Tailwind CSS.<br>🤝 I’m looking to collaborate on  <br>Open-source projects related to front-end development, UI libraries, or web app dashboards.<br>🙌 I’m looking for help with  <br>Advanced React patterns, performance optimization, and integrating AI tools into front-end workflows.<br>🌱 I’m currently learning  <br>Flask for building backend APIs.<br>💬 Ask me about  <br>React.js, Tailwind CSS, responsive design best practices, and building clean, scalable front-end architectures.<br>⚡ Fun fact  <br>I love creating sleek UIs almost as much as I enjoy learning new JavaScript frameworks!
+### 🔭 I’m currently working on 
+Developing end-to-end applications that integrate **Machine Learning** models with modern web architectures.
+
+### 🤝 I’m looking to collaborate on 
+Open-source projects involving **AI integration**, **RESTful APIs**, or scalable **Full-Stack** solutions.
+
+### 🤝 I’m looking for help with 
+Advanced **data engineering**, cloud-based model deployment, and optimizing complex **React** architectures.
+
+### 🌱 I’m currently learning 
+Advanced data processing and statistical analysis through the **Google Data Analytics** professional track.
+
+### 💬 Ask me about 
+**Python** for data science, building APIs with **FastAPI**, and creating responsive interfaces with **React** and **Tailwind CSS**.
+
+### ⚡ Fun fact 
+I enjoy the challenge of turning complex datasets into intuitive, user-friendly digital experiences.
 
 
 ## 🌐 Socials:
